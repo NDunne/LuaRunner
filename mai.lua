@@ -1,2 +1,0 @@
---example
-print("Hello, World!")

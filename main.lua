@@ -1,0 +1,2 @@
+--example
+print("Hello, World!")
